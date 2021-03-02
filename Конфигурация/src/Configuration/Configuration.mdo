@@ -40,4 +40,9 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.РаботаСФайлами</commonModules>
+  <commonModules>CommonModule.РаботаСФайлами1</commonModules>
+  <commonForms>CommonForm.Форма</commonForms>
+  <commonForms>CommonForm.Форма1</commonForms>
+  <commonForms>CommonForm.Форма2</commonForms>
+  <commonForms>CommonForm.Форма3</commonForms>
 </mdclass:Configuration>
